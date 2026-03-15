@@ -345,7 +345,7 @@
                                FontSize="20"
                                Foreground="#FFCCCCCC"
                                VerticalAlignment="Center"
-                               Margin="0,0,12,0"/>
+                               Margin="1,0,11,0"/>
                     <TextBox x:Name="SearchTextBox"
                              Grid.Column="1"
                              Background="Transparent"
@@ -379,7 +379,7 @@
                                FontFamily="Segoe Sans Display"
                                FontSize="13"
                                VerticalAlignment="Top"
-                               Margin="10,5,6,0" Height="14" HorizontalAlignment="Center"/>
+                               Margin="442,8,0,0" Height="14" HorizontalAlignment="Left"/>
                     <Border CornerRadius="5"
                             Margin="5,30,5,50"
                             Background="#0F000000">
